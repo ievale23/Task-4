@@ -8,3 +8,5 @@ nurodomas gamintojas ir jo pagaminti modeliai.
 Pastaba: Informacija apie automobilį (brand) (jo kortelė) turi turėti 
 bent minimalų stilių;
 -------------------------------------------------------------------------- */
+
+//dirbam ant dev hello
